@@ -3,7 +3,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-👨🏻‍💻 Desenvolvedor mobile em evolução
+👨🏻‍💻 Desenvolvedor web em evolução
 
 
 
