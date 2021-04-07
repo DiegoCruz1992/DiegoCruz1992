@@ -1,9 +1,9 @@
-# Olá <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></a> Seja bem vindo (a)!!
+# Olá <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></a> Seja bem vindo (a)!
 
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-
-👨🏻‍💻 Desenvolvedor web em evolução
+###  <img align="center" alt="boo" height="60" width="80" src="https://img.buzzfeed.com/buzzfeed-static/static/2017-12/6/14/asset/buzzfeed-prod-fastlane-02/anigif_sub-buzz-21896-1512589377-7.gif"> Um pouco sobre mim: 
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 🚀 Desenvolvedor web em evolução
 
 
 
