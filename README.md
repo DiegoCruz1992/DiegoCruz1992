@@ -8,7 +8,10 @@
 
 
 
-
+### 📫 Entre em contato comigo:
+<a href="https://www.linkedin.com/in/diego-mauricio-1baaa7188/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"">
+  </a> <a href="mailto:diego.mauricio.cruz@hotmail.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"></a> 
 
   
 
