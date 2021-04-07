@@ -13,6 +13,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"">
   </a> <a href="mailto:diego.mauricio.cruz@hotmail.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"></a> 
 
+
+### 📊 GitHub estatísticas:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCruz1992&layout=compact&hide_border=true&theme=dark)](https://github.com/DiegoCruz1992/github-readme-stats)<br>
+<!--[![Estatísticas](https://github-readme-stats.vercel.app/api?username=kahpereira&include_all_commits=true&hide=issues&count_private=true&show_icons=true&hide_border=true&theme=radical)](https://github.com/kahpereira/github-readme-stats)
+
+
+<!--
+**kahpereira/kahpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
   
 
 ![Diego Mauricio's github stats](https://github-readme-stats.vercel.app/api?username=DiegoCruz1992&show_icons=true&theme=dark)
