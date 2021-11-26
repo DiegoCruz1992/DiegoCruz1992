@@ -15,7 +15,7 @@
   <img align="center" alt="diego-vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="diego-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="diego-figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="right" alt="diego-img" height="180"  src="https://i.picasion.com/pic91/3fd5a5f8f65af195f10c6dad9eea298c.gif">
+  <img align="right" alt="diego-img" height="150"  src="https://i.picasion.com/pic91/ceb80b85773ac662edadcc380e10f3b7.gif">
 
 
 </div>
